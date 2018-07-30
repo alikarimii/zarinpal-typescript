@@ -1,0 +1,15 @@
+{
+  "name": "zarinpal-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zarinpal.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zarinpal",
+    "zarinpal-typescript"
+  ],
+  "author": "ali karimi",
+  "license": "ISC"
+}
