@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "zarinpal.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alikarimii/zarinpal-typescript"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +15,8 @@
     "zarinpal-typescript"
   ],
   "author": "ali karimi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
