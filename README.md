@@ -1,0 +1,2 @@
+# zarinpal-typescript
+zarinpal
